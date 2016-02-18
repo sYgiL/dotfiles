@@ -18,7 +18,7 @@ then
   then
     ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/linuxbrew/go/install)"
   fi
-  
+
 fi
 
 # Make sure we’re using the latest Homebrew.
@@ -33,28 +33,28 @@ brew install cask chisel jq hub mergepbx
 # Install cask apps
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
-brew cask install \
-     todoist\
-     utorrent\
-     vlc\
-     viber\
-     spotify\
-     slack\
-     skype\
-     iterm2\
-     appcleaner\
-     dropbox\
-     google-photos-backup\
-     daisydisk\
-     charles\
-     telegram\
-     sublime-text\
-     ynab\
-     flux\
-     clipmenu\
-     anki\
-     nvalt\
-     rescuetime
+# brew cask install \
+#      todoist\
+#      utorrent\
+#      vlc\
+#      viber\
+#      spotify\
+#      slack\
+#      skype\
+#      iterm2\
+#      appcleaner\
+#      dropbox\
+#      google-photos-backup\
+#      daisydisk\
+#      charles\
+#      telegram\
+#      sublime-text\
+#      ynab\
+#      flux\
+#      clipmenu\
+#      anki\
+#      nvalt\
+#      rescuetime
 
 #QuickLook plugins
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook provisionql

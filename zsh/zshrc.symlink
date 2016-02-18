@@ -1,7 +1,7 @@
 # shortcut to this dotfiles path is $ZSH
 export DOT_FILES=$HOME/.dotfiles
 export ZSH=$DOT_FILES/oh-my-zsh
-
+DEFAULT_USER=viacheslav.leonov
 
 # legacy zsh config
 ZSH_THEME="agnoster"
