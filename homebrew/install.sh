@@ -65,7 +65,6 @@ brew cask install \
   steam\
   tunnelbear\
   tunnelblick\
-  unrarx\
   virtualbox\
   utorrent\
   vlc\
