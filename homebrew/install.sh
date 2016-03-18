@@ -53,8 +53,9 @@ brew cask install \
   imagealpha\
   imageoptim\
   istumbler\
+  java\
   macdown\
-  mplayerx
+  mplayerx\
   picasa\
   rdm\
   sourcetree\
