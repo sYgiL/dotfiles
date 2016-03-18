@@ -33,28 +33,56 @@ brew install cask chisel jq hub mergepbx
 # Install cask apps
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
-# brew cask install \
-#      todoist\
-#      utorrent\
-#      vlc\
-#      viber\
-#      spotify\
-#      slack\
-#      skype\
-#      iterm2\
-#      appcleaner\
-#      dropbox\
-#      google-photos-backup\
-#      daisydisk\
-#      charles\
-#      telegram\
-#      sublime-text\
-#      ynab\
-#      flux\
-#      clipmenu\
-#      anki\
-#      nvalt\
-#      rescuetime
+brew cask install \
+  atom\
+  1password\
+  alfred\
+  appcode\
+  araxis-merge\
+  arduino\
+  bbedit\
+  calibre\
+  dash\
+  disk-inventory-x\
+  evernote\
+  firefox\
+  forklift\
+  google-chrome\
+  google-drive\
+  gopro-studio\
+  #hma-pro-vpn\
+  imagealpha\
+  imageoptim\
+  istumbler\
+  #keyremap4macbook\
+  macdown\
+  mplayerx
+  #onedrive\
+  picasa\
+  rdm\
+  sourcetree\
+  #speed download\
+  sequel-pro\
+  sqlitebrowser\
+  sqlprosqlite\
+  steam\
+  tunnelbear\
+  tunnelblick\
+  #twitter
+  unrarx\
+  virtualbox\
+  utorrent\
+  vlc\
+  viber\
+  slack\
+  skype\
+  iterm2\
+  dropbox\
+  google-photos-backup\
+  charles\
+  telegram\
+  flux\
+  rescuetime
 
 #QuickLook plugins
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook provisionql
