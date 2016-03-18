@@ -50,25 +50,20 @@ brew cask install \
   google-chrome\
   google-drive\
   gopro-studio\
-  #hma-pro-vpn\
   imagealpha\
   imageoptim\
   istumbler\
-  #keyremap4macbook\
   macdown\
   mplayerx
-  #onedrive\
   picasa\
   rdm\
   sourcetree\
-  #speed download\
   sequel-pro\
   sqlitebrowser\
   sqlprosqlite\
   steam\
   tunnelbear\
   tunnelblick\
-  #twitter
   unrarx\
   virtualbox\
   utorrent\
