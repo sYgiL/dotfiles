@@ -38,9 +38,7 @@ brew cask install \
   1password\
   alfred\
   appcode\
-  araxis-merge\
   arduino\
-  bbedit\
   calibre\
   dash\
   disk-inventory-x\
@@ -57,7 +55,6 @@ brew cask install \
   macdown\
   mplayerx\
   picasa\
-  rdm\
   sourcetree\
   sequel-pro\
   sqlitebrowser\
@@ -75,7 +72,6 @@ brew cask install \
   dropbox\
   google-photos-backup\
   charles\
-  telegram\
   flux\
   rescuetime
 
